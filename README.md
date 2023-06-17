@@ -46,9 +46,6 @@ Contributions to this project are welcome. If you have any suggestions, bug fixe
 
 Please ensure that your code follows the project's coding style and conventions. Also, provide a detailed description of your changes in the pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-If you have any questions or inquiries, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries, feel free to contact me at [mabuhashim95@gmail.com](mailto:mabuhashim95@gmail.com).
 EOL
